@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 <!-- 
 DEPENDENCIES:
-1. MUI
+1. MUI & MUI icons
 2. react-router-dom
 3. react-toastify
 4. axios
@@ -24,6 +24,7 @@ Signup>Signup.jsx
 AppRouter>
 AppRouter.jsx
 
+config>firebase.js (Firebase Auth, Firestore imported just paste your configurations)
 
 pages>
 
